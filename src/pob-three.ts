@@ -13,10 +13,10 @@ function countWordOccurrences(sentence: string, word: string): number {
 }
 
 
-console.log(countWordOccurrences("I love typescript", "typescript")); // Output: 1
+console.log(countWordOccurrences("I love typescript", "typescripts"));
 console.log(countWordOccurrences("JavaScript is great, and I love JavaScript", "javascript")); // Output: 2
-console.log(countWordOccurrences("HELLO hello HeLLo", "hello")); // Output: 3
-console.log(countWordOccurrences("TypeScript is powerful", "java")); // Output: 0
+console.log(countWordOccurrences("HELLO hello HeLLo", "hello")); 
+console.log(countWordOccurrences("TypeScript is powerful", "java")); 
 
 
 
