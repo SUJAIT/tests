@@ -1,4 +1,7 @@
 
+////              ChatGpt- Generated
+
+
 class Car {
     make: string;
     model: string;
@@ -21,11 +24,20 @@ class Car {
 
 const car = new Car("Honda", "Civic", 2018);
 console.log(car.getCarAge()); 
+//////
+
+
 
 
 // {
 //     ////////////////////////////////////////
 //     //problem-7
+
+
+
+// My Submission
+
+
 //     //Create a typeScript class Car with properties make,model, and year. Include a method getCaraAge that return the car's age based on the current year.
 
 //     class Car {

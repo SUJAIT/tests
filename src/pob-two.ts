@@ -1,3 +1,6 @@
+
+////              ChatGpt- Generated
+
 // function removeDuplicates(arr: number[]): number[] {
 //     let uniqueNumbers: number[] = [];
 //     let seen = new Set<number>(); /
@@ -16,6 +19,8 @@
 // console.log(removeDuplicates([12,1, 2, 2, 3, 4, 4, 5,11,11,11,11,12,19]));
 
 //////
+
+// My Submission
 
 const averageArr: number[] = [1,1,1,2,3,3,6,9,9,8,9,6,7,4,3,1,2,3,4,5,6,9,87,7,7]
     

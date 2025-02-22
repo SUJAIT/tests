@@ -1,3 +1,6 @@
+
+////              ChatGpt- Generated
+
 function validateKeys<T extends object>(obj: T, keys: (keyof T)[]): boolean {
     return keys.every(key => key in obj);
 }
@@ -14,6 +17,12 @@ console.log(validateKeys(person, ["email"]));
 // {
 //     //////////////////////////////////
 //     //Problem-8
+
+// My Submission
+
+
+
+
 //     // Create a Function ValidateKey(Obj:Text,Key:(Keyof T)[]) that takes an object obj and an array of keys MediaKeySession.The Function should return true if all of the specified keys exist in the objects , otherwise, it should return false.
     
 //     const Obj = { name: "Sujait",age:23};
